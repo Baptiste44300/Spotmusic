@@ -1,0 +1,15 @@
+.DELETE_MUSIC{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+    margin-top: 30%;
+    background-color: rgba(0, 0, 0, 0.374);
+    border-radius: 10px;
+}
+
+
+.selectMusicDelete{
+    margin: 10%;
+}

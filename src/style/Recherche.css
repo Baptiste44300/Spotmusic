@@ -1,0 +1,35 @@
+.musique{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 1%;
+}
+
+.SearchMusic{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#SearchBar{
+    width: 50%;
+    height: 30px;
+    border-radius: 50px;
+}
+
+.Artiste{
+    display: flex;
+    background-color: aqua;
+    width: 20%;
+}
+
+.Titre{
+    background-color: blanchedalmond;
+    width: 40%;
+}
+
+.Genre{
+    background-color: rgb(226, 220, 43);
+    width: 40%;
+}

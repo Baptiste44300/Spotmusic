@@ -1,0 +1,43 @@
+.Card_Modify{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20%;
+}
+
+.AddMusic{
+    background-color: antiquewhite;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    display: flex;
+    margin-bottom: 10%;
+
+}
+
+.DeleteMusic{
+    background-color: antiquewhite;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    display: flex;
+    margin-bottom: 10%;
+
+}
+
+.ModifyMusic{
+    background-color: antiquewhite;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    display: flex;
+    margin-bottom: 10%;
+
+}
