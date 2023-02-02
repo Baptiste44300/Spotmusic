@@ -22,6 +22,8 @@ tu dois faire ton .env dans dans le back et dans le front il y a le podel dans l
 
 le wireframe et le backend est dans le dossier images
 
+j'ai pas fais le responsive donc c'est que en mobile
+
 ### lance le projet 
 
 pour lancer le server fais un cd backend et npm run dev
